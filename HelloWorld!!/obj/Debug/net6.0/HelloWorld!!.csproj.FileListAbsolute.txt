@@ -1,0 +1,15 @@
+C:\bridgelabz2\HelloWorld!!\bin\Debug\net6.0\HelloWorld!!.exe
+C:\bridgelabz2\HelloWorld!!\bin\Debug\net6.0\HelloWorld!!.deps.json
+C:\bridgelabz2\HelloWorld!!\bin\Debug\net6.0\HelloWorld!!.runtimeconfig.json
+C:\bridgelabz2\HelloWorld!!\bin\Debug\net6.0\HelloWorld!!.dll
+C:\bridgelabz2\HelloWorld!!\bin\Debug\net6.0\HelloWorld!!.pdb
+C:\bridgelabz2\HelloWorld!!\obj\Debug\net6.0\HelloWorld!!.csproj.AssemblyReference.cache
+C:\bridgelabz2\HelloWorld!!\obj\Debug\net6.0\HelloWorld!!.GeneratedMSBuildEditorConfig.editorconfig
+C:\bridgelabz2\HelloWorld!!\obj\Debug\net6.0\HelloWorld!!.AssemblyInfoInputs.cache
+C:\bridgelabz2\HelloWorld!!\obj\Debug\net6.0\HelloWorld!!.AssemblyInfo.cs
+C:\bridgelabz2\HelloWorld!!\obj\Debug\net6.0\HelloWorld!!.csproj.CoreCompileInputs.cache
+C:\bridgelabz2\HelloWorld!!\obj\Debug\net6.0\HelloWorld!!.dll
+C:\bridgelabz2\HelloWorld!!\obj\Debug\net6.0\refint\HelloWorld!!.dll
+C:\bridgelabz2\HelloWorld!!\obj\Debug\net6.0\HelloWorld!!.pdb
+C:\bridgelabz2\HelloWorld!!\obj\Debug\net6.0\HelloWorld!!.genruntimeconfig.cache
+C:\bridgelabz2\HelloWorld!!\obj\Debug\net6.0\ref\HelloWorld!!.dll
